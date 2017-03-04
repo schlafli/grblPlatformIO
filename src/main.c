@@ -4,4 +4,4 @@
  *  Created on: 27 Feb 2017
  *      Author: schlafli
  */
-#include <grbl.h>
+#include "../lib/grbl-wall-plotter/grbl/grbl.h"

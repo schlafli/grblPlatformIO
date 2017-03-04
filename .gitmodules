@@ -1,0 +1,3 @@
+[submodule "lib/grbl-wall-plotter"]
+	path = lib/grbl-wall-plotter
+	url = git@github.com:schlafli/grbl-wall-plotter.git
